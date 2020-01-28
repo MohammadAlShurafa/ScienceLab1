@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mech" android:title="@string/mech" android:icon="@drawable/ic_mec"  />
+    <item android:id="@+id/elec" android:title="@string/electric" android:icon="@drawable/ic_electr" />
+    <item android:id="@+id/static_elec" android:title="@string/static_electric" android:icon="@drawable/ic_static" />
+    <item android:id="@+id/magn" android:title="@string/magnetic_device" android:icon="@drawable/ic_magnetic" />
+    <item android:id="@+id/temp" android:title="@string/temp_device" android:icon="@drawable/logo" />
+    <item android:id="@+id/light" android:title="@string/light_device" android:icon="@drawable/ic_light" />
+    <item android:id="@+id/chem" android:title="@string/chemistry_device" android:icon="@drawable/ic_chem" />
+    <item android:id="@+id/biol" android:title="@string/bio"  android:icon="@drawable/ic_biology"/>
+    <item android:id="@+id/glass" android:title="@string/glassware_device" android:icon="@drawable/ic_glass" />
+    <item android:id="@+id/helper" android:title="@string/helper_tool"  android:icon="@drawable/ic_helper" />
+
+</menu>
+
